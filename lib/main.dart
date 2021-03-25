@@ -1,7 +1,6 @@
-import 'package:IMCApp/teladois.dart';
+import 'package:IMCApp/sobreIMC.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 
 void main() {
   runApp(App());
